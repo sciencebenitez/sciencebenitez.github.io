@@ -58,6 +58,9 @@
             },
             "& when (@bg-type = 'image')": {
               "background-image": "url(@bg-value)"
+            },
+            "B": {
+              "color": "#cc2952"
             }
           },
           "_name": "header5",
